@@ -1,4 +1,3 @@
-# library-agile-hub
 # Smart Library Management System
 
 ## 1. Introduction
